@@ -5,12 +5,31 @@
 }
 
 .Why-choosus-heading{
-    margin: 70px 0px;
+    margin-top: 70px;
     
 
 }
 
-.Why-choosus-card{
-    background-color:red;
+.Why-choosus-container{
+    display: flex;
+    justify-content:space-around;
+    background-color: #e6b790;
+    margin: 20px 0;
+    padding: 20px;
+}
 
+.Why-choosus-card{
+    background-color:white;
+    width: 170px;
+    padding: 10px;
+    border-radius: 5px;
+    margin: 10px;
+    
+
+}
+
+.Why-choosus-image{
+    height: 70px;
+    display: block;
+    margin: 10px auto;
 }
