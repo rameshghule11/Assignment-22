@@ -5,9 +5,29 @@
 }
 
 .Why-choosus-heading{
-    margin-top: 70px;
+    margin-top: 50px;
     
 
+}
+
+.header-img{
+    height:350px;
+    
+    border: 10px solid #270b0b;
+    display: block;
+    margin: 20px auto;
+    border-radius: 10px;
+}
+
+.header-discription-container{
+    width: 50%;
+
+}
+
+.header-img-container{
+    width: 50%;
+    display: block;
+    margin: 20px auto;
 }
 
 .Why-choosus-container{
@@ -24,7 +44,7 @@
     padding: 10px;
     border-radius: 5px;
     margin: 10px;
-    
+    box-shadow: 0 0 10px 2px #808080;
 
 }
 
@@ -32,4 +52,8 @@
     height: 70px;
     display: block;
     margin: 10px auto;
+}
+
+.header-section{
+    display: flex;
 }
