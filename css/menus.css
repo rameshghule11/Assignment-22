@@ -18,6 +18,7 @@
 
 .menus-card:hover{
     box-shadow:-5px 5px 10px 1px #001633;
+    cursor: pointer;
 }
 
 .menus-icon{
