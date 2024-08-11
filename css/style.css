@@ -68,11 +68,13 @@ background-color: #ff5470;
 
 .btn-primary{
     background-color: #00ebc7;
+    height: 50px;
     
 }
 
 .btn-secondary{
     background-color: #ff5470;
+    height: 50px;
 }
 
 .no-underline{
