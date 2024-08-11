@@ -82,3 +82,10 @@ background-color: #ff5470;
 .fs-50{
     font-size: 50px;
 }
+
+.center-iteams{
+    align-items:end;
+    display: block;
+    margin: 10px auto;
+    height: 50px;
+}
