@@ -1,0 +1,51 @@
+.menus-container{
+
+}
+
+.menus-card{
+    background-color: white;
+    width: 150px;
+    padding: 10px;
+    margin: 10px;
+    border-radius: 10px;
+    box-shadow: -5px 5px 20px 1px #1b2d45;
+    border: 1px solid #00214d;
+}
+
+.menus-card:hover{
+    box-shadow:-5px 5px 10px 1px #001633;
+}
+
+.menus-icon{
+    height: 100px;
+    display: block;
+    margin: 10px auto;
+}
+
+.menus-title{
+    margin: 0;
+    padding: 0;
+    font-size: 20px;
+}
+
+.menus-discription{
+    font-size: 14px;
+    margin-top: 0;
+
+}
+
+.menus-order-buuton{
+    background-color: #004d41
+    ;
+    color: white;
+    border: none;
+    border-radius: 5px;
+    padding: 1px 10px;
+
+}
+.menus-order-buuton:hover{
+    border-radius: 20px;
+    transition:1se;
+    cursor: pointer;
+
+}
