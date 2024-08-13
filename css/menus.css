@@ -57,3 +57,23 @@
     cursor: pointer;
 
 }
+
+.order-btn{
+
+    background-color: #004d41
+    ;
+    color: rgb(221, 119, 119);
+    border: none;
+    border-radius: 5px;
+    padding: 1px 10px;
+
+}
+
+.order-btn:hover{
+    border-radius: 30px;
+    transition:1se;
+    cursor: pointer;
+ background-color: blue;
+ color: white;
+
+}
